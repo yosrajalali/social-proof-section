@@ -8,7 +8,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-css-grid-BKrnOfrFjW](https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-css-grid-BKrnOfrFjW)
 - Live Site URL: [https://yosrajalali.github.io/social-proof-section/](https://yosrajalali.github.io/social-proof-section/)
 
 ## Table of contents
